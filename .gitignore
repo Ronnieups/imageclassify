@@ -1,0 +1,14 @@
+*.h5
+*.pt
+*.pb
+*.onnx
+*.model
+data/
+tmp/
+myenv1/
+*.log
+cache/
+logs/
+*.ipynb_checkpoints/
+.vscode/
+.idea/

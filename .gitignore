@@ -1,6 +1,7 @@
 *.h5
 *.pt
 *.pb
+*.ckpt
 *.onnx
 *.model
 data/
@@ -12,3 +13,8 @@ logs/
 *.ipynb_checkpoints/
 .vscode/
 .idea/
+/results/
+/checkpoints/
+*.pyc
+*.pyo
+*.pyd
